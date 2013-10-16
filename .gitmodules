@@ -64,3 +64,15 @@
 [submodule "_vim/bundle/ctrlp"]
 	path = _vim/bundle/ctrlp
 	url = https://github.com/kien/ctrlp.vim.git
+[submodule "cs-molokai"]
+	path = cs-molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "_vim/bundle/cs-jellybeans"]
+	path = _vim/bundle/cs-jellybeans
+	url = https://github.com/nanotech/jellybeans.vim
+[submodule "_vim/bundle/cs_Pychimp-vim"]
+	path = _vim/bundle/cs_Pychimp-vim
+	url = https://github.com/Pychimp/Pychimp-vim
+[submodule "_vim/bundle/cs-molokai"]
+	path = _vim/bundle/cs-molokai
+	url = https://github.com/tomasr/molokai
